@@ -26,8 +26,3 @@ Make sure `retail_customer_segmentation.csv` is in the same folder as
   pairplot, correlation heatmap, confusion matrix, decision boundary,
   C vs accuracy curve, kernel comparison bar chart) is reproduced.
 
-## Deploy
-
-Push `app.py`, `requirements.txt`, and `retail_customer_segmentation.csv`
-to a GitHub repo, then deploy free on [share.streamlit.io](https://share.streamlit.io)
-by pointing it at `app.py`.
